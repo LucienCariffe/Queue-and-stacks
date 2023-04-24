@@ -1,1 +1,1 @@
-# Queue-and-stacks
+# Queues-and-stacks
